@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sooryajith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sooryajithmy316/)](https://www.linkedin.com/in/sooryajithmy316/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Sooryajith-yellow)](https://stackoverflow.com/users/19374462/sooryajith-m-y)
+[![Stack-overflow Badge](https://img.shields.io/badge/StackOverflow-Sooryajith-yellow)](https://stackoverflow.com/users/19374462/sooryajith-m-y)
 
 I'm
 Bachelor of Data Science Student at SP Jain School of Global Management, Sydney.
